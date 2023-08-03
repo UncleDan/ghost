@@ -1,6 +1,6 @@
 turnkey-ghost-18 (1) turnkey; urgency=low
 
-  * Install latest upstream version of Ghost: x.y (as of today, automatically searches for the revision).
+  * Install latest upstream version of Ghost: 5.57.3 (as of today, automatically searches for the revision).
 
   * Re-build on TurnKey Linux 18 (Debian 12 'bookworm')
 
